@@ -1,0 +1,49 @@
+[
+{
+    "author": "Abraham Lincoln",
+    "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2074&q=80",
+    "quotes": [
+        "Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.",
+        "Most folks are as happy as they make up their minds to be.",
+        "You cannot escape the responsibility of tomorrow by evading it today.",
+        "I don't like that man. I must get to know him better."
+    ]
+},
+{
+    "author": "Albert Einstein",
+    "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2174&q=80",
+    "quotes": [
+        "Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.",
+        "Look deep into nature, and then you will understand everything better.",
+        "It's not that I'm so smart, it's just that I stay with problems longer.",
+        "I have no special talent. I am only passionately curious."
+    ]
+},
+{
+    "author": "Helen Keller",
+    "image": "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2076&q=80",
+    "quotes": [
+        "Keep your face to the sunshine and you cannot see a shadow.",
+        "Walking with a friend in the dark is better than walking alone in the light.",
+        "What we have once enjoyed we can never lose. All that we love deeply becomes a part of us."
+    ]
+},
+{
+    "author": "Alexander Pope",
+    "image": "https://images.unsplash.com/photo-1426604966848-d7adac402bff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+    "quotes": [
+        "Honor and shame from no condition rise. Act well your part: there all the honor lies.",
+        "The most positive men are the most credulous.",
+        "Never find fault with the absent."
+    ]
+},
+{
+    "author": "Henry Ford",
+    "image": "https://images.unsplash.com/photo-1475924156734-496f6cac6ec1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+    "quotes": [
+        "If everyone is moving forward together, then success takes care of itself.",
+        "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.",
+        "It is well enough that people of the nation do not understand our banking and monetary system, for if they did, I believe there would be a revolution before tomorrow morning."
+    ]
+},
+]

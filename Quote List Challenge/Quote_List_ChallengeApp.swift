@@ -11,7 +11,7 @@ import SwiftUI
 struct Quote_List_ChallengeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            QuoteListView()
         }
     }
 }
